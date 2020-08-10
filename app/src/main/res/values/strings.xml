@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">homeworkWeek9</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="toast_message">Saved</string>
+</resources>
